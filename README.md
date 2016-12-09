@@ -1,4 +1,4 @@
-## oss-security-portscan-v2
+## security-portscan-v2
 ---
 #### Introduce
 本程序基于python开发,采用tornado和redis做的分布式多任务，高并发的端口扫描agent，默认扫描1-65530端口；
